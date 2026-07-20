@@ -1,0 +1,13 @@
+# Ignore big dataset only
+US_Accidents_March23.csv
+US_Accidents_Cleaned.csv
+road_clusters.csv
+
+# Allow small CSVs
+!risk_table.csv
+!risk_table_scaled.csv
+
+*.pkl
+*.ipynb
+__pycache__/
+*.pyc
